@@ -11,5 +11,5 @@ file -i myfile.txt
 ### Get checksum
 
 ```bash
-# TODO
+sha256sum myfile.txt
 ```
