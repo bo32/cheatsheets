@@ -12,4 +12,6 @@ file -i myfile.txt
 
 ```bash
 sha256sum myfile.txt
+sha1sum   myfile.txt
+md5sum    myfile.txt
 ```
